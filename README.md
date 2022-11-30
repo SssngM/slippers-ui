@@ -1,7 +1,7 @@
 # Slippers Design System -ui-component by Gitlab
 making open source contributions to the Slippers Design System
 
-<div> https://gitlab-com.gitlab.io/marketing/digital-experience/slippers-ui/?path=/docs/intro--page<div> 
+<div>https://gitlab-com.gitlab.io/marketing/digital-experience/slippers-ui/?path=/docs/components-accordion--default<div> 
 <div> https://gitlab.com/SssngM/slippers-ui/-/tree/main/src/components/Accordion<div> 
 
 
